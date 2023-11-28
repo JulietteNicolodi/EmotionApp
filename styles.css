@@ -1,0 +1,137 @@
+/* Fichier CSS (styles.css) */
+body {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+  height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #D7E6F1; /* Nouvelle couleur de fond du corps */
+}
+
+h1 {
+  text-align: center;
+  font-size: 28px;
+  color: #333;
+  margin-top: 80px;
+  margin-bottom: 50px;
+}
+
+#buttons-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.motivation-button {
+  background-color: #E8E13E;
+  color: #fff;
+  border: 2px solid #E8E13E;
+  margin: 10px;
+  border-radius: 10px;
+  width: 200px;
+  font-size: 16px;
+}
+
+.amour-button {
+  background-color: #EB318A;
+  color: #fff;
+  border: 2px solid #EB318A;
+  margin: 10px;
+  border-radius: 10px;
+  width: 200px;
+  font-size: 16px;
+}
+
+.reconfort-button {
+  background-color: #64A1BF;
+  color: #fff;
+  border: 2px solid #64A1BF;
+  margin: 10px;
+  border-radius: 10px;
+  width: 200px;
+  font-size: 16px;
+}
+
+.proche-button {
+  background-color: #EBBE71;
+  color: #fff;
+  border: 2px solid #EBBE71;
+  margin: 10px;
+  border-radius: 10px;
+  width: 200px;
+  font-size: 16px;
+}
+
+.colere-button {
+  background-color: #E42929;
+  color: #fff;
+  border: 2px solid #E42929;
+  margin: 10px;
+  border-radius: 10px;
+  width: 200px;
+  font-size: 16px;
+}
+
+.douleur-button {
+  background-color: #6FCB60;
+  color: #fff;
+  border: 2px solid #6FCB60;
+  margin: 10px;
+  border-radius: 10px;
+  width: 200px;
+  font-size: 16px;
+}
+
+.amourencore-button {
+  background-color: #FDA0CD;
+  color: #fff;
+  border: 2px solid #FDA0CD;
+  margin: 10px;
+  border-radius: 10px;
+  width: 200px;
+  font-size: 16px;
+}
+
+.fatigue-button {
+  background-color: #4565CB;
+  color: #fff;
+  border: 2px solid #4565CB;
+  margin: 10px;
+  border-radius: 10px;
+  width: 200px;
+  font-size: 16px;
+}
+
+.excitation-button {
+  background-color: #FF7A28;
+  color: #fff;
+  border: 2px solid #FF7A28;
+  margin: 10px;
+  border-radius: 10px;
+  width: 200px;
+  font-size: 16px;
+}
+
+.doute-button {
+  background-color: #B57DCD;
+  color: #fff;
+  border: 2px solid #B57DCD;
+  margin: 10px;
+  border-radius: 10px;
+  width: 200px;
+  font-size: 16px;
+}
+
+.amouranouveau-button {
+  background-color: #A80654;
+  color: #fff;
+  border: 2px solid #A80654;
+  margin: 10px;
+  border-radius: 10px;
+  width: 200px;
+  font-size: 16px;
+}
+
